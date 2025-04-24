@@ -1,9 +1,18 @@
-# Nelson William ✨
-Sr. IT Systems Technician | Systems Administrator • Networks • Databases • Full-stack Developer | Passionate About Technology<br/><br/> 
+# <p align="center">Nelson William ✨</p>
+## <p align="center">Sr. IT Systems Technician | Systems Administrator • Networks • Databases • Full-stack Developer | Passionate About Technology<br/><br/></p> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nelsonwilliamkeleko) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keleko.nelson@gmail.com) 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I'm a student in computer systems engineering, I have knowledge in network (configuration switches, router, DHCP server, NAT, VoiP, ACL, GRE, IPSEC, OSPF, IP STATIC ) especially in programming C++, Python, C#, Active Directory, java, azure Microsoft and also experience in the industry. Experience in customer service and technical support.<br/><br/>
+I’m passionate about programming and full-stack development with strong skills in:
+
+  <ul><li>Front-End: HTML, CSS, JavaScript, frameworks (React, Angular)</li>
+
+  <li>Back-End: .NET MAUI, Flask, Node.js, databases (SQLite, MySQL, PostgreSQL)</li>
+
+  <li>Networking & System Administration: configuring Linux/Windows servers, firewall management, task automation</li>
+
+  <li>IT Support: ticket resolution, user assistance, workflow optimization</li></ul>
 
 
 ## 🌐 Socials:
