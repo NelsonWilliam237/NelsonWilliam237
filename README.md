@@ -14,6 +14,9 @@ I’m passionate about programming and full-stack development with strong skills
 
   <li>IT Support: ticket resolution, user assistance, workflow optimization</li></ul>
 
+# 🎯 Goal
+To become a full-stack developer and contribute to innovative projects in tech and digital.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nelsonwilliamkeleko) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keleko.nelson@gmail.com) 
