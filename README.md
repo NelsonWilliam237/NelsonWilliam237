@@ -14,8 +14,8 @@ I’m passionate about programming and full-stack development with strong skills
 
   <li>IT Support: ticket resolution, user assistance, workflow optimization</li></ul>
 
-# 🎯 Goal
-To become a full-stack developer and contribute to innovative projects in tech and digital.
+🎯 Goal<br/>
+Become a full-stack developer and contribute to innovative technology and digital projects.
 
 
 ## 🌐 Socials:
