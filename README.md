@@ -1,9 +1,9 @@
-# <h1 align="center">Nelson William ✨</h1>
-## <h3 align="center">Sr. IT Systems Technician | Systems Administrator • Networks • Databases • Full-stack Developer | Passionate About Technology<br/><br/></h3>  
+# <h1 align="center">Nelson William </h1>
+## <h3 align="center">Sr. IT Systems Technician | Systems Administrator • Networks • Databases • Full-stack Developer<br/><br/></h3>  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nelsonwilliamkeleko) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keleko.nelson@gmail.com) 
 
 # 💫 About Me:
-I'm a student in computer systems engineering, I have knowledge in network (configuration switches, router, DHCP server, NAT, VoiP, ACL, GRE, IPSEC, OSPF, IP STATIC ) especially in programming C++, Python, C#, Active Directory, java, azure Microsoft and also experience in the industry. Experience in customer service and technical support.<br/><br/>
+Like computer systems engineering, I have knowledge in network (configuration switches, router, DHCP server, NAT, VoiP, ACL, GRE, IPSEC, OSPF, IP STATIC ) especially in programming C++, Python, C#, Active Directory, java, azure Microsoft and also experience in the industry. Experience in customer service and technical support.<br/><br/>
 I’m passionate about programming and full-stack development with strong skills in:
 
   <ul><li><b>Front-End</b>: HTML, CSS, JavaScript, frameworks (React, Angular)</li>
@@ -14,8 +14,6 @@ I’m passionate about programming and full-stack development with strong skills
 
   <li><b>IT Support<b>: ticket resolution, user assistance, workflow optimization</li></ul>
 
-🎯 Goal<br/>
-Become a full-stack developer and contribute to innovative technology and digital projects.
 
 
 ## 🌐 Socials:
