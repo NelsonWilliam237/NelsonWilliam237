@@ -6,25 +6,11 @@
 🚀 Full-Stack Developer & DevOps / Cloud Engineer delivering end-to-end applications, from clean code to secure, production-ready deployment.
 I build applications and deploy, automate, and maintain them
 
-🧩 What I Do
+🧩 What I Do </br>
 Build full-stack web applications
 Develop backend APIs & authentication
 Design and optimize databases
 Deploy applications using DevOps & cloud best practices
-
-🛠️ Tech Stack (Condensed & Scannable)
-Frontend: HTML, CSS, JavaScript, Flutter
-Backend: Flask, NodeJs, REST APIs, Python
-Databases: SQL, NoSQL
-DevOps & Cloud: Docker, Linux (Ubuntu/Kali), Terraform / OpenTofu, CI/CD basics
-Security: Linux hardening, secure authentication
-Virtualization: VirtualBox, Proxmox
-
-<li><b>Networking & System Administration</b>: configuring Linux/Windows servers, firewall management, task automation</li>
-
-<li><b>IT Support<b>: ticket resolution, user assistance, workflow optimization</li></ul>
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nelsonwilliamkeleko) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keleko.nelson@gmail.com) 
@@ -81,7 +67,14 @@ Virtualization: VirtualBox, Proxmox
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code></td>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code></td>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hadoop.png" alt="Hadoop" title="Hadoop"/></code></td>
+			<td>
+  <code>
+    <img width="50" 
+         src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/powershell.png" 
+         alt="PowerShell" 
+         title="PowerShell"/>
+  </code>
+</td>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></td>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" title="Django"/></code></td>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" title="Flask"/></code></td>
