@@ -3,16 +3,26 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nelsonwilliamkeleko) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keleko.nelson@gmail.com) 
 
 # 💫 About Me:
-Like computer systems engineering, I have knowledge in network (configuration switches, router, DHCP server, NAT, VoiP, ACL, GRE, IPSEC, OSPF, IP STATIC ) especially in programming C++, Python, C#, Active Directory, java, azure Microsoft and also experience in the industry. Experience in customer service and technical support.<br/><br/>
-I’m passionate about programming and full-stack development with strong skills in:
+🚀 Full-Stack Developer & DevOps / Cloud Engineer delivering end-to-end applications, from clean code to secure, production-ready deployment.
+I build applications and deploy, automate, and maintain them
 
-  <ul><li><b>Front-End</b>: HTML, CSS, JavaScript, frameworks (React, Angular)</li>
+🧩 What I Do
+Build full-stack web applications
+Develop backend APIs & authentication
+Design and optimize databases
+Deploy applications using DevOps & cloud best practices
 
-  <li><b>Back-End</b>: .NET MAUI, Flask, Node.js, databases (SQLite, MySQL, PostgreSQL)</li>
+🛠️ Tech Stack (Condensed & Scannable)
+Frontend: HTML, CSS, JavaScript, Flutter
+Backend: Flask, NodeJs, REST APIs, Python
+Databases: SQL, NoSQL
+DevOps & Cloud: Docker, Linux (Ubuntu/Kali), Terraform / OpenTofu, CI/CD basics
+Security: Linux hardening, secure authentication
+Virtualization: VirtualBox, Proxmox
 
-  <li><b>Networking & System Administration</b>: configuring Linux/Windows servers, firewall management, task automation</li>
+<li><b>Networking & System Administration</b>: configuring Linux/Windows servers, firewall management, task automation</li>
 
-  <li><b>IT Support<b>: ticket resolution, user assistance, workflow optimization</li></ul>
+<li><b>IT Support<b>: ticket resolution, user assistance, workflow optimization</li></ul>
 
 
 
