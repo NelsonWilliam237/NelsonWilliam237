@@ -9,9 +9,9 @@ IT technician with 4+ years of experience in L2-L3 support and Windows systems a
 
 What I Do </br>
 ## Projects
-- **[aws-terraform-labs](https://github.com/NelsonWilliam237/aws-terraform-labs)**: AWS labs (VPC, EC2, IAM) provisioned with Terraform. *(verify)*
-- **[capstone-infra-terraform](https://github.com/NelsonWilliam237/capstone-infra-terraform)**: Capstone, infrastructure provisioning with Terraform. *(verify)*
-- **[capstone-webapp-ansible](https://github.com/NelsonWilliam237/capstone-webapp-ansible)**: Capstone, web application deployed and configured with Ansible. *(verify)*
+- **[aws-terraform-labs](https://github.com/NelsonWilliam237/aws-terraform-labs)**: AWS labs (VPC, EC2, IAM) provisioned with Terraform.
+- **[capstone-infra-terraform](https://github.com/NelsonWilliam237/capstone-infra-terraform)**: Capstone, infrastructure provisioning with Terraform.
+- **[capstone-webapp-ansible](https://github.com/NelsonWilliam237/capstone-webapp-ansible)**: Capstone, web application deployed and configured with Ansible.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nelsonwilliamkeleko) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keleko.nelson@gmail.com) 
