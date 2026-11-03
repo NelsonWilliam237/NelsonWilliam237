@@ -7,7 +7,6 @@ IT technician with 4+ years of experience in L2-L3 support and Windows systems a
 
 **Currently preparing:** AWS Solutions Architect Associate · Microsoft AZ-104 · CCNA · Fortinet NSE 4
 
-What I Do </br>
 ## Projects
 - **[aws-terraform-labs](https://github.com/NelsonWilliam237/aws-terraform-labs)**: AWS labs (VPC, EC2, IAM) provisioned with Terraform.
 - **[capstone-infra-terraform](https://github.com/NelsonWilliam237/capstone-infra-terraform)**: Capstone, infrastructure provisioning with Terraform.
