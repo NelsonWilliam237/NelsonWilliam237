@@ -5,7 +5,7 @@
 # About Me:
 IT technician with 4+ years of experience in L2-L3 support and Windows systems administration (Active Directory, Microsoft 365, Intune, Fortinet). I'm building my cloud and automation skills with hands-on labs on AWS, infrastructure as code (Terraform) and configuration management (Ansible).
 
-**Currently preparing:** AWS Solutions Architect – Associate · Microsoft AZ-104 · CCNA · Fortinet NSE 4
+**Currently preparing:** AWS Solutions Architect Associate · Microsoft AZ-104 · CCNA · Fortinet NSE 4
 
 What I Do </br>
 ## Projects
