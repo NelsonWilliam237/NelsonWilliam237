@@ -12,10 +12,12 @@ IT technician with 4+ years of experience in L2-L3 support and Windows systems a
 - **[capstone-infra-terraform](https://github.com/NelsonWilliam237/capstone-infra-terraform)**: Capstone, infrastructure provisioning with Terraform.
 - **[capstone-webapp-ansible](https://github.com/NelsonWilliam237/capstone-webapp-ansible)**: Capstone, web application deployed and configured with Ansible.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nelsonwilliamkeleko) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keleko.nelson@gmail.com) 
-
 # 💻 Tech Stack:
+![Tech stack](https://skillicons.dev/icons?i=aws,azure,terraform,ansible,git,github,linux,bash,powershell,python&theme=dark)
+
+**Also working with:** Active Directory · Microsoft Entra ID · Microsoft 365 · Intune · Fortinet · Cisco · Hyper-V / VMware
+**Learning:** Docker · Kubernetes · CI/CD (GitHub Actions)
+
 <div align="center">
 	
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
