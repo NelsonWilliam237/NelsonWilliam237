@@ -14,9 +14,6 @@ IT technician with 4+ years of experience in L2-L3 support and Windows systems a
 
 # 💻 Tech Stack:
 
-**Also working with:** Active Directory · Microsoft Entra ID · Microsoft 365 · Intune · Fortinet · Cisco · Hyper-V / VMware
-**Learning:** Docker · Kubernetes · CI/CD (GitHub Actions)
-
 ![Tech stack](https://skillicons.dev/icons?i=git,github,npm,react,tailwindcss,flutter,gitlab&theme=dark)
 
 
