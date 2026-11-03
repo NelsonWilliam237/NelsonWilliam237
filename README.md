@@ -1,7 +1,6 @@
 # <h1 align="center">Nelson William </h1>
 ## <h3 align="center">IT Technician | Systems & Network Administrator | Transitioning to Cloud & DevOps <br/><br/></h3>  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nelsonwilliamkeleko) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keleko.nelson@gmail.com) 
-🌐 French / English
 
 # About Me:
 IT technician with 4+ years of experience in L2-L3 support and Windows systems administration (Active Directory, Microsoft 365, Intune, Fortinet). I'm building my cloud and automation skills with hands-on labs on AWS, infrastructure as code (Terraform) and configuration management (Ansible).
