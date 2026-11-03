@@ -13,22 +13,12 @@ IT technician with 4+ years of experience in L2-L3 support and Windows systems a
 - **[capstone-webapp-ansible](https://github.com/NelsonWilliam237/capstone-webapp-ansible)**: Capstone, web application deployed and configured with Ansible.
 
 # 💻 Tech Stack:
-![Tech stack](https://skillicons.dev/icons?i=git,github,npm,react,tailwindcss,flutter,gitlab&theme=dark)
+
 
 **Also working with:** Active Directory · Microsoft Entra ID · Microsoft 365 · Intune · Fortinet · Cisco · Hyper-V / VMware
 **Learning:** Docker · Kubernetes · CI/CD (GitHub Actions)
 
-<div align="center">
-	
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-</div></br> 
-
+![Tech stack](https://skillicons.dev/icons?i=git,github,npm,react,tailwindcss,flutter,gitlab&theme=dark)
 
 <div align="center">
 	<table>
