@@ -1,16 +1,17 @@
 # <h1 align="center">Nelson William </h1>
-## <h3 align="center">IT Systems Technician | Systems Administrator | Full-Stack & Cloud Engineer | Backend, Databases, DevOps Automation<br/><br/></h3>  
+## <h3 align="center">IT Technician | Systems & Network Administrator | Transitioning to Cloud & DevOps <br/><br/></h3>  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nelsonwilliamkeleko) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keleko.nelson@gmail.com) 
 
 # About Me:
-Full-Stack Developer & DevOps / Cloud Engineer delivering end-to-end applications, from clean code to secure, production-ready deployment.
-I build applications and deploy, automate, and maintain them
+IT technician with 4+ years of experience in L2-L3 support and Windows systems administration (Active Directory, Microsoft 365, Intune, Fortinet). I'm building my cloud and automation skills with hands-on labs on AWS, infrastructure as code (Terraform) and configuration management (Ansible).
+
+**Currently preparing:** AWS Solutions Architect – Associate · Microsoft AZ-104 · CCNA · Fortinet NSE 4
 
 What I Do </br>
-Build full-stack web applications
-Develop backend APIs & authentication
-Design and optimize databases
-Deploy applications using DevOps & cloud best practices
+## Projects
+- **[aws-terraform-labs](https://github.com/NelsonWilliam237/aws-terraform-labs)**: AWS labs (VPC, EC2, IAM) provisioned with Terraform. *(verify)*
+- **[capstone-infra-terraform](https://github.com/NelsonWilliam237/capstone-infra-terraform)**: Capstone, infrastructure provisioning with Terraform. *(verify)*
+- **[capstone-webapp-ansible](https://github.com/NelsonWilliam237/capstone-webapp-ansible)**: Capstone, web application deployed and configured with Ansible. *(verify)*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nelsonwilliamkeleko) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keleko.nelson@gmail.com) 
