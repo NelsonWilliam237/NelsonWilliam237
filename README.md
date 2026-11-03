@@ -13,7 +13,7 @@ IT technician with 4+ years of experience in L2-L3 support and Windows systems a
 - **[capstone-webapp-ansible](https://github.com/NelsonWilliam237/capstone-webapp-ansible)**: Capstone, web application deployed and configured with Ansible.
 
 # 💻 Tech Stack:
-![Tech stack](https://skillicons.dev/icons?i=aws,azure,terraform,ansible,git,github,linux,bash,powershell,python&theme=dark)
+![Tech stack](https://skillicons.dev/icons?i=git,github,linux,bash,powershell,python&theme=dark)
 
 **Also working with:** Active Directory · Microsoft Entra ID · Microsoft 365 · Intune · Fortinet · Cisco · Hyper-V / VMware
 **Learning:** Docker · Kubernetes · CI/CD (GitHub Actions)
