@@ -80,7 +80,7 @@ IT technician with 4+ years of experience in L2-L3 support and Windows systems a
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)</div></br>
 
-![Tech stack](https://skillicons.dev/icons?i=C#,.net,sqlite,powershell,express.js,netxtjs,fastapi&theme=dark)
+![Tech stack](https://skillicons.dev/icons?i=C#,net,sqlite,powershell,express.js,netxtjs,fastapi&theme=dark)
 
 **Also working with:** Active Directory · Microsoft Entra ID · Microsoft 365 · Intune · Fortinet · Cisco · Hyper-V / VMware
 **Learning:** Docker · Kubernetes · CI/CD (GitHub Actions)
